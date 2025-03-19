@@ -35,17 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
+
 interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+  - Программирование
+  - Разработка ПО
+  - Искусственный интеллект
+  - Стартапы и инновации
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
+    summary: Студент направления "Прикладная информатика", увлекаюсь программированием и разработкой программного обеспечения, а также исследую возможности искусственного интеллекта для автоматизации процессов.
       
 work:
   - position: Student
@@ -54,44 +56,48 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Участвую в учебных проектах по разработке программного обеспечения и исследую алгоритмы машинного обучения.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Add your own SVG icons to assets/media/icons/
 skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
+        description: Знания в области Python и разработки программных решений.
         percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: code-bracket
+      - name: Машинное обучение
+        description: Опыт работы с алгоритмами машинного обучения для анализа данных и создания интеллектуальных систем.
+        percent: 65
+        icon: robot
+      - name: Веб-разработка
+        description: Разработка веб-приложений с использованием HTML, CSS, JavaScript.
+        percent: 60
+        icon: code
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
+      - name: Спортивные игры
+        description: Интересуюсь футболом и баскетболом.
+        percent: 85
+      - name: Музыка
+        description: Играю на гитаре и увлекаюсь созданием музыки.
+        percent: 70
+      - name: Путешествия
+        description: Любовь к путешествиям и открытию новых мест.
         percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
 
 languages:
-  - name: Русский
+  - name: Французский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 80
+  - name: Русский
+    percent: 50
+
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
